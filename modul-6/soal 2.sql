@@ -5,3 +5,4 @@ WHERE kode_mk IN (
     FROM krs
     WHERE nim = '22001'
 );
+

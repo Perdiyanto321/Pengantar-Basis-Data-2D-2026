@@ -5,3 +5,4 @@ FROM (
     WHERE kode_mk IN ('MK01', 'MK02')
 ) AS nilai_mk
 GROUP BY kode_mk;
+

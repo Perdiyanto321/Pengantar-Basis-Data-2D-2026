@@ -8,3 +8,4 @@ JOIN mata_kuliah mk ON n.kode_mk = mk.kode_mk;
 SELECT *
 FROM v_transkrip_lengkap
 WHERE nilai_huruf = 'A';
+ 

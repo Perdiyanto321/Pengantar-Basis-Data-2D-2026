@@ -5,3 +5,4 @@ WHERE EXISTS (
     FROM nilai n
     WHERE n.nim = m.nim
 );
+

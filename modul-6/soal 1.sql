@@ -6,3 +6,4 @@ WHERE n.nilai_angka > (
 	SELECT AVG(nilai_angka)
 	FROM nilai
 );
+
